@@ -15,4 +15,8 @@ So, now i'm going to clean the data by following steps :-
 4) Concatenating/Merging columns (like 'Contact name') 
 
 After performing all the requireded steps 
+<<<<<<< HEAD
 Now, the data is ready to be used for analysis.📊
+=======
+> Now, the data is ready to be used for analysis.📊
+>>>>>>> c2bf5e6a175204735597ce9c522c090035927d6a
