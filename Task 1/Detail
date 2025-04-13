@@ -1,6 +1,3 @@
-# Internship 
->[Elevate Labs] (1 Month)
-
 ## Task 1 was to do Data Cleaning and Preprocessing 
 I have taken a Vehicle Sales Data having different columns like 
 > ORDERNUMBER, QUANTITYORDERED, PRICEEACH,	ORDERLINENUMBER,	ORDERDATE,	STATUS,	QTR, MONTH, YEAR,	PRODUCTLINE,	PRODUCTCODE,	CUSTOMERNAME,	ADDRESSLINE1&2.........
