@@ -27,5 +27,6 @@ whereas Detail file have sales data like order id, qty, catagories, amt .....
 the tool which i have used is PowerBi
 
 The Dashboard contains diff charts, graphs, cards & slicers
+
  ------------------------
  
