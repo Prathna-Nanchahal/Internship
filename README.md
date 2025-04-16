@@ -18,3 +18,14 @@ After performing all the requireded steps
 Now, the data is ready to be used for analysis.📊
 
 ------------
+
+## Task 2 was to make Data Visualisation (Dashboard)
+I have taken 2 files 'Order' & 'Detail' data for making a Sales Dashboard 
+Order file contains data related to customers like order id, name, city......
+whereas Detail file have sales data like order id, qty, catagories, amt .....
+
+the tool which i have used is PowerBi
+
+The Dashboard contains diff charts, graphs, cards & slicers
+ ------------------------
+ 
