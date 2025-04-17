@@ -1,6 +1,37 @@
 ## Task 2 was to make Data Visualisation (Dashboard)
+**Visualisation** plays a vital role in Data Analyses because visuals doesn't mean to just make charts but to use charts to get an easy understanding of the data which is much easier as compared to the table data.
+By the help of visuals, a person belonging to a non-technical background can easily understand the data & can work accordingly
+And the best way to show a bunch of visuals is through a Dashboard.
+
 I have taken 2 files 'Order' & 'Detail' data for making a Sales Dashboard 
 Order file contains data related to customers like order id, name, city......
 whereas Detail file have sales data like order id, qty, catagories, amt .....
 
-the tool which i have used is PowerBi
+The tool which i have used is PowerBi
+
+After getting the data into Powerbi the connection between the 2 files are formed in respect to the 'order id' column.
+To get the best results from data different types of Visualisations are used like:-
+1) **Cards-** are used to show single numeric values like sum, avg, count, etc in big font. It can also be used to show some important single values which management would like to see first like total sales, profit,customer base..etc
+  I have made 4 cards 
+  • Sales Revenue- showing the total amt of sales done in the year
+  • Total Profit- tells us about whether the business is in profit or not & also checks that is their an ↑ or ↓ in profit compared to the previous year  
+  • Total Customers- shows the total no of customers we have, also whether they have increased or decreased
+  • Quantity sold- shows whether their is an ↑ in  qty as compared to the previuos year or not. also helps us in maintaining stock for next year
+
+2) **Slicers-** they are interactive visual filters that allow users to interactively filter the data within a report.
+  It changes data on the visuals according to the value selected in slicer 
+  • Quater
+  • Sub-Catagory 
+  • State
+
+3) **Line Chart-** helps in tracking changes or trends over time. In this case it is telling us about the amount of sales done in the year in different months.
+For example- we are having lowest sales in the month of july or we can say that sales are droping in quater 2, now the management can find out what are the reason for the drop like is their a seasonal factor or any other if it is then they can reduce the advertising cost of non-seasonal products & can focus on other
+
+4) **Pie Chart-** it visually represent data in a circular format, displaying the proportions of different categories within a whole. They are helpful for comparing & showing how a total amount is divided among different segments. in short, pie charts illustrate the part-to-whole relationship of data.
+For example- we have 3 categories in which 'Electronics' contributes the most as compared to others which shows that it have potential to expand. Whereas for the other categories we can improve 
+
+5) **Bar Chart-** it displays categorical data using horizontal bars, where the length of each bar is proportional to its value. It is commonly used to compare different categories. 
+I have used this chart to get the Top 5 sub-categories sold.
+For example- Saree, handkercheif,stole,furnishing,t-shrits are the top5 sub-categy being sold & most of them comes from clothing category. so management can think of introducing more design to these to inc.sales or they can check why the sales incresed is their a new design launched or because of discounts.
+
+6) **Funnel Chart-** 
